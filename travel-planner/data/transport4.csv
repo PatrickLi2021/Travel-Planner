@@ -1,0 +1,20 @@
+origin,destination,type,price,duration
+Los Angeles,Seattle,plane,300,3
+Seattle,San Francisco,bus,40,8
+San Jose,San Francisco,train,20,2
+San Francisco,Phoenix,train,50,5
+Phoenix,Pasadena,bus,30,7
+San Jose,Los Angeles,train,30,2
+Los Angeles,Tuscon,plane,200,3
+Tuscon,San Jose,plane,150,2
+Tuscon,Palo Alto,plane,170,2
+Cupertino,Palo Alto,bus,10,2
+San Jose,Cupertino,bus,20,3
+San Jose,Sacramento,bus,30,3
+San Jose,Phoenix,plane,300,2
+Sacramento,Phoenix,plane,200,2
+Sacramento,Pasadena,train,40,2
+Cupertino,Portland,bus,25,2
+Portland,Pasadena,bus,30,4
+Sacramento,Cupertino,train,15,2
+Sacramento,Portland,bus,50,6

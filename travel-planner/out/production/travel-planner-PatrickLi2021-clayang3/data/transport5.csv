@@ -1,0 +1,6 @@
+origin,destination,type,price,duration
+Altoona,Philadelphia,train,40,2
+Easton,Philadelphia,train,30,2
+Reading,Easton,bus,20,3
+Reading,Altoona,train,10,2
+Reading,Philadelphia,bus,50,4
